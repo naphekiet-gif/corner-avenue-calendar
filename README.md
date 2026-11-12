@@ -2,7 +2,7 @@
 
 The public events calendar for **Corner Avenue**, a weekly hand-curated guide to New York City's creative life — film, music, fine art, performance, makers & crafts, pottery, and gatherings.
 
-**▶ Live calendar:** https://<your-username>.github.io/corner-avenue-calendar/
+**▶ Live calendar:** https://calendar.thecornerave.com/
 **✉ Newsletter:** https://napht.substack.com
 
 ---
